@@ -1,0 +1,1 @@
+CHAR.o: ../CHAR.c
